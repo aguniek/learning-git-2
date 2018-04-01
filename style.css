@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,500);
+
+.container {
+    background-color: #FFF;
+    margin: 100px auto 0;
+    max-width: 700px;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h3 {
+    color: darkblue;
+}
+
+p {
+    margin-top: 30px;
+    line-height: 2.0;
+}
