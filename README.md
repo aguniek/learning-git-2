@@ -1,0 +1,1 @@
+[link do zadania 7.4](https://aguniek.github.io/learning-git-2/)
