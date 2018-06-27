@@ -1,2 +1,6 @@
 # sass
 .sass-cache/
+
+# folder od browser-sync
+node_modules/
+
